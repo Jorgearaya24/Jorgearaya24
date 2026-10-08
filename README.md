@@ -8,26 +8,28 @@ Desarrollo mi experiencia práctica mediante laboratorios que simulan entornos c
 
 ##  Áreas de conocimiento
 
--  SOC Operations & Blue Team
--  Threat Detection & Log Analysis
--  Windows Security & Event Logs
--  Active Directory Security
--  SIEM & Security Monitoring
--  Network Security & Traffic Analysis
--  Incident Response
--  Phishing Investigation
--  Vulnerability Management
--  MITRE ATT&CK
+* SOC Operations & Blue Team
+* Threat Detection & Log Analysis
+* Windows Security & Event Logs
+* Windows Hardening & Patch Management
+* Active Directory Security
+* SIEM & Security Monitoring
+* Network Security & Traffic Analysis
+* Incident Response
+* Phishing Investigation
+* Vulnerability Management
+* MITRE ATT&CK
 
-##  Tecnologías y herramientas
+## Tecnologías y herramientas
 
-**SIEM & Detection:** Wazuh, Splunk, Sysmon  
-**Network Security:** Wireshark, Suricata  
-**Windows & AD:** Windows Server, Active Directory, PowerShell  
-**Offensive Security:** Kali Linux, NetExec, Impacket, Mimikatz, John the Ripper  
-**Digital Forensics:** Autopsy  
-**Framework:** MITRE ATT&CK  
-**Virtualization:** VirtualBox
+SIEM & Detection: Wazuh, Splunk, Sysmon
+Network Security: Wireshark, Suricata
+Windows & AD: Windows Server, Active Directory, PowerShell
+Vulnerability Management: Nmap, Nessus Essentials
+Offensive Security: Kali Linux, NetExec, Impacket, Mimikatz, John the Ripper
+Digital Forensics: Autopsy
+Framework: MITRE ATT&CK, CVSS, EPSS
+Virtualization: VirtualBox
 
 ##  Proyectos destacados
 
