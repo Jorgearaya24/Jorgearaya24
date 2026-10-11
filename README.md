@@ -44,7 +44,7 @@ Virtualization: VirtualBox
 ### [EDR: Detección e Investigación en Endpoints](https://github.com/Jorgearaya24/Edr-wazuh-sysmon-lab)
 ...
 
-### [Vulnerability Management](https://github.com/Jorgearaya24/NOMBRE-DEL-REPO)
+### https://github.com/Jorgearaya24/vulnerability-management-nmap-nessus.
 
 
 
