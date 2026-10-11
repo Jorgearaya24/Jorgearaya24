@@ -33,18 +33,20 @@ Digital Forensics: Autopsy
 Framework: MITRE ATT&CK, CVSS, EPSS
 Virtualization: VirtualBox
 
-##  Proyectos destacados
+
+## Proyectos destacados
 
 ### [Active Directory Attack & Detection Lab](https://github.com/Jorgearaya24/Active-directory-attack-and-detection)
-...
+Entorno corporativo de AD simulado donde ejecuto ataques reales y valido su detección con un SIEM.
 
-###  [Home SOC Lab](https://github.com/Jorgearaya24/Home-soc-lab)
-...
+### [Home SOC Lab](https://github.com/Jorgearaya24/Home-soc-lab)
+Laboratorio de detección con Sysmon y Splunk.
 
-### [EDR: Detección e Investigación en Endpoints](https://github.com/Jorgearaya24/Edr-wazuh-sysmon-lab)
-...
+### [EDR: Detección e Investigación en Endpoints](https://github.com/Jorgearaya24/EDR-Wazuh-Sysmon-Lab)
+Detección y respuesta en endpoints usando Wazuh y Sysmon.
 
 ### [Gestión de Vulnerabilidades con Nmap y Nessus](https://github.com/Jorgearaya24/vulnerability-management-nmap-nessus)
+Ciclo completo de gestión de vulnerabilidades: descubrimiento, escaneo, priorización, remediación y re-escaneo.
 
 
 
