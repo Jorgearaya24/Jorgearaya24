@@ -10,6 +10,8 @@ Desarrollo mi experiencia práctica mediante laboratorios que simulan entornos c
 
 * SOC Operations & Blue Team
 * Threat Detection & Log Analysis
+* Endpoint Detection & Response (EDR)
+* Detection Engineering (Custom Rule Writing)
 * Windows Security & Event Logs
 * Windows Hardening & Patch Management
 * Active Directory Security
@@ -24,7 +26,7 @@ Desarrollo mi experiencia práctica mediante laboratorios que simulan entornos c
 
 SIEM & Detection: Wazuh, Splunk, Sysmon
 Network Security: Wireshark, Suricata
-Windows & AD: Windows Server, Active Directory, PowerShell
+Windows & AD: Windows Server, Active Directory, PowerShell, Windows Firewall
 Vulnerability Management: Nmap, Nessus Essentials
 Offensive Security: Kali Linux, NetExec, Impacket, Mimikatz, John the Ripper
 Digital Forensics: Autopsy
@@ -34,19 +36,17 @@ Virtualization: VirtualBox
 ##  Proyectos destacados
 
 ### [Active Directory Attack & Detection Lab](https://github.com/Jorgearaya24/Active-directory-attack-and-detection)
-
-Laboratorio corporativo simulado con **Active Directory + Windows + Wazuh**, donde ejecuté técnicas ofensivas y validé su detección:
-
-- **Password Spraying** — detección mediante Event ID 4625
-- **Kerberoasting** — extracción y cracking de TGS, análisis del Event ID 4769 y corrección de la configuración de auditoría
-
-`Wazuh` `Active Directory` `Impacket` `NetExec` `John the Ripper`
+...
 
 ###  [Home SOC Lab](https://github.com/Jorgearaya24/Home-soc-lab)
+...
 
-Laboratorio de detección basado en **Sysmon + Splunk**, enfocado en ingesta, monitoreo y análisis de eventos de seguridad.
+### [EDR: Detección e Investigación en Endpoints](https://github.com/Jorgearaya24/Edr-wazuh-sysmon-lab)
+...
 
-`Splunk` `Sysmon` `Windows Event Logging`
+### [Vulnerability Management](https://github.com/Jorgearaya24/NOMBRE-DEL-REPO)
+
+
 
 ##  Certificación y formación
 
