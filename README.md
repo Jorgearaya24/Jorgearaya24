@@ -25,15 +25,15 @@ Desarrollo mi experiencia práctica mediante laboratorios que simulan entornos c
 
 ## Tecnologías y herramientas
 
-Cloud Security: AWS (CloudTrail, GuardDuty, IAM, S3, EventBridge, SNS), AWS CLI
-SIEM & Detection: Wazuh, Splunk, Sysmon
-Network Security: Wireshark, Suricata
-Windows & AD: Windows Server, Active Directory, PowerShell, Windows Firewall
-Vulnerability Management: Nmap, Nessus Essentials
-Offensive Security: Kali Linux, NetExec, Impacket, Mimikatz, John the Ripper
-Digital Forensics: Autopsy
-Framework: MITRE ATT&CK, CVSS, EPSS
-Virtualization: VirtualBox
+*Cloud Security: AWS (CloudTrail, GuardDuty, IAM, S3, EventBridge, SNS), AWS CLI
+*SIEM & Detection: Wazuh, Splunk, Sysmon
+*Network Security: Wireshark, Suricata
+*Windows & AD: Windows Server, Active Directory, PowerShell, Windows Firewall
+*Vulnerability Management: Nmap, Nessus Essentials
+*Offensive Security: Kali Linux, NetExec, Impacket, Mimikatz, John the Ripper
+*Digital Forensics: Autopsy
+*Framework: MITRE ATT&CK, CVSS, EPSS
+*Virtualization: VirtualBox
 
 
 ## Proyectos destacados
