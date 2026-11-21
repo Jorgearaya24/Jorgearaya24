@@ -2,20 +2,14 @@
 
 **Cybersecurity Analyst | SOC Analyst | Information Security Analyst**
 
-Profesional en ciberseguridad certificado **CompTIA Security+**, **BTL1** con formación en ciberseguridad y redes, y enfoque en **Security Operations, Blue Team, detección de amenazas y análisis de incidentes**.
+Profesional en ciberseguridad certificado **CompTIA Security+**, **BTL1**, **SC-200**, con formación en ciberseguridad y redes, y enfoque en **Security Operations, Blue Team, detección de amenazas y análisis de incidentes**.
 
 Desarrollo mi experiencia práctica mediante laboratorios que simulan entornos corporativos reales, combinando técnicas ofensivas con su detección, investigación y documentación.
 
 ##  Áreas de conocimiento
 
 * SOC Operations & Blue Team
-* Threat Detection & Log Analysis
-* Cloud Security Monitoring (AWS)
-* Endpoint Detection & Response (EDR)
-* Detection Engineering (Custom Rule Writing)
-* Windows Security & Event Logs
-* Windows Hardening & Patch Management
-* Active Directory Security
+* Threat Detection & Log Analysis 
 * SIEM & Security Monitoring
 * Network Security & Traffic Analysis
 * Incident Response
